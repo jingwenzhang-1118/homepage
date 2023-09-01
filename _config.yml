@@ -1,0 +1,43 @@
+title: "Jingwen Zhang"
+author: "Jingwen Zhang"
+description: "Every moment is a fresh beginning."
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false        # show article excerpts on the home page
+show_frame: false           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md", title: "Home"}
+  - {file: "research.md", title: "Research"}
+  - {file: "programing.md", title: "Programing"}
+  - {file: "visuals.md", title: "Visualizations"}
+
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:j.zhang@ese.eur.nl"}
+# - {title: Github, icon: github, url: "https://github.com/jingwenzhang1118"}
+# - {title: EUR, url: "https://www.eur.nl/people/jingwen-zhang"}
+# - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/jingwenzhang1118/"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+remote_theme: niklasbuschmann/contrast@v3.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-gist
