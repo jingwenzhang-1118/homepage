@@ -3,13 +3,16 @@ layout: page
 title: "About me"
 ---
 
-<img style="border: 0px ; width: 280px; height: 320px; float: left; padding:0px 30px 80px 0px" src="/images/photo_J.Zhang.jpeg" alt="hi" class="inline-block">
+<img style="border: 0px ; width: 280px; height: 320px; float: left; padding:0px 30px 240px 0px" src="/images/photo_J.Zhang.jpeg" alt="hi" class="inline-block">
 Welcome to my homepage!
 
-I am an assistant professor in Accounting at Erasmus School of Economics (ESE), Erasmum University Rotterdam (EUR). Motivated by real-life issues, my research focus broadly on managerial accounting, corporate governance, and ESG topics. In particular, my papers examine how to design control and incentive systems to motivate and support employees and managers, to balance strategic behaviors and long-term goals of organizations. 
+I am an assistant professor in Accounting at Erasmus School of Economics (ESE), Erasmum University Rotterdam (EUR). 
 
-I have taught various courses, incluidng programming, managerial accounting, financial accounting, seminar management control, and introduction to accounting research. Additionally, I supervise master students for their theses. 
+I have conducted quantitative research on topics including incentive contracts, performance measurements, target setting, management controls, human capital, and ESG issues. I am excited to identify people's performance pattern from the data, in order to design effective incentive plans and control strategies. The findings rely on varying types of firms, such as retail chains, franchise, manufacturing firms and large public firms.
 
-Please find my <a href="https://www.dropbox.com/scl/fi/ut1embvfzbr9wezwzuy10/CV_Jingwen-Zhang_Aca.pdf?rlkey=93eyjamx7d2tzsrznv4qry4oh&dl=0" target="_blank"><strong>Curriculum vitae</strong></a> here.
-<br>
+I use different programming languages (e.g., Stata/Python/SQL) for data collection, data cleaning, data analysis, and data visualization. I applied different empirical models and machine learning algorithms to exploit variouds kinds of data, including big data, field data and survey data. 
+
+I teach both accounting-related and programming-focused courses. I prefer interactive teaching and focus on the practical relevance of the courses. 
+
+
 Mail: [j.zhang@ese.eur.nl](mailto:j.zhang@ese.eur.nl)
